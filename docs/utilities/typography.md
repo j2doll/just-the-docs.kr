@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Typography
+title: 타이포그래피
 parent: 유틸리티들
 nav_order: 4
 ---
 
-# Typography Utilities
+# 타이포그래피 유틸리티
 {: .no_toc }
 
 ## Table of contents

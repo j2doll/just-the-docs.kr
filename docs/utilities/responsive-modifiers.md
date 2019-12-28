@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Responsive Modifiers
+title: 반응형 수정자
 parent: 유틸리티들
 nav_order: 1
 ---
 
-# Responsive modifiers
+# 반응형 수정자
 
 Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes.
 

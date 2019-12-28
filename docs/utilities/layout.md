@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Layout
+title: 레이아웃
 parent: 유틸리티들
 nav_order: 2
 ---
 
-# Layout Utilities
+# 레이아웃 유틸리티
 {: .no_toc }
 
 ## Table of contents

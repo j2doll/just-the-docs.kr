@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Color
+title: 색
 parent: 유틸리티들
 nav_order: 3
 ---
 
-# Color Utilities
+# 컬러 유틸리티
 {: .no_toc }
 
 ## Table of contents
