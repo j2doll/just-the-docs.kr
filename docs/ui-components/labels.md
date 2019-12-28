@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Labels
-parent: UI Components
+title: 레이블
+parent: UI 구성 요소
 nav_order: 3
 ---
 
-# Labels
+# 레이블
 
 Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue.
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Lists
-parent: UI Components
+title: 리스트
+parent: UI 구성 요소
 nav_order: 5
 ---
 
-# Lists
+# 리스트
 {: .no_toc }
 
 ## Table of contents

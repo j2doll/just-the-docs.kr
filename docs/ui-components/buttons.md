@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
+title: 버튼
+parent: UI 구성 요소
 nav_order: 2
 ---
 
-# Buttons
+# 버튼
 {: .no_toc }
 
 ## Table of contents

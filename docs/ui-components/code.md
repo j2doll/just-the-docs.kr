@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: 코드
+parent: UI 구성 요소
 nav_order: 6
 ---
 
-# Code
+# 코드
 {: .no_toc }
 
 ## Table of contents
