@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 홈
 nav_order: 1
 description: "Docs는 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수 있는 내장 검색 기능을 갖춘 반응형 Jekyll 테마입니다."
 permalink: /

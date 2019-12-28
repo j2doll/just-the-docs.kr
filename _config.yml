@@ -36,7 +36,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "깃허브의 저스트 닥스":
+  "깃허브의 저스트 닥스 (포크된 브랜치)":
     - "//github.com/j2doll/just-the-docs.kr"
 
 # Footer content appears at the bottom of every page's main content
