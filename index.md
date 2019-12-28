@@ -6,17 +6,17 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# 좋은 문서 작성에 집중
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Docs 만 있으면 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수있는 반응 형 Jekyll 테마로 문서를 빠르게 시작할 수 있습니다.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## 시작하기
 
 ### Dependencies
 
