@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Docs는 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수있는 내장 검색 기능을 갖춘 반응 형 Jekyll 테마입니다."
+description: "Docs는 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수 있는 내장 검색 기능을 갖춘 반응형 Jekyll 테마입니다."
 permalink: /
 ---
 
@@ -12,7 +12,7 @@ permalink: /
 Docs 만 있으면 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수있는 반응 형 Jekyll 테마로 문서를 빠르게 시작할 수 있습니다.
 {: .fs-6 .fw-300 }
 
-[시작하기](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub에서 보기](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[시작하기](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub에서 보기](https://github.com/j2doll/just-the-docs.kr){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
