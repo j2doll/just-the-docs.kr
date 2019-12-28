@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Responsive Modifiers
-parent: Utilities
+parent: 유틸리티들
 nav_order: 1
 ---
 

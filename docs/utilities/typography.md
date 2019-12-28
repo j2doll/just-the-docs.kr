@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Utilities
+parent: 유틸리티들
 nav_order: 4
 ---
 
