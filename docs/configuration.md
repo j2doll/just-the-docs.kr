@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: 설정
 nav_order: 2
 ---
 
-# Configuration
+# 설정
 {: .no_toc }
 
 
