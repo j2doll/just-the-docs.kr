@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: 커스터마이징
 nav_order: 6
 ---
 
-# Customization
+# 커스터마이징
 {: .no_toc }
 
 ## Table of contents

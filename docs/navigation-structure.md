@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Navigation Structure
+title: 탐색 구조
 nav_order: 5
 ---
 
-# Navigation Structure
+# 탐색 구조
 {: .no_toc }
 
 ## Table of contents

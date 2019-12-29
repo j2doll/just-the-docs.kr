@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Search
+title: 검색
 nav_order: 7
 ---
 
-# Search
+# 검색
 {: .no_toc }
 
 ## Table of contents
