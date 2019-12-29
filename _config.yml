@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 저스트 닥스
+title: 저스트 더 닥스
 description: 문서를 위한 지킬 테마
 baseurl: "/just-the-docs.kr" # the subpath of your site, e.g. /blog
 url: "https://j2doll.github.io" # the base hostname & protocol for your site, e.g. http://example.com

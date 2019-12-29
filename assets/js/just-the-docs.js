@@ -67,12 +67,6 @@ function initSearch() {
       {% endif %}
       
       var index = lunr(function () {
-        this.pipeline.reset();
-        this.pipeline.add(
-          trimmerEnKo,
-          lunr.stopWordFilter,
-          lunr.stemmer
-        );        
         this.ref('id');
         this.field('title', { boost: 200 });
         this.field('content', { boost: 2 });
