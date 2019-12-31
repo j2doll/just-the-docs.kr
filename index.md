@@ -9,7 +9,7 @@ permalink: /
 # 좋은 문서 작성에 집중
 {: .fs-9 }
 
-Docs 만 있으면 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수있는 반응 형 Jekyll 테마로 문서를 빠르게 시작할 수 있습니다.
+Docs 만 있으면 GitHub 페이지에서 쉽게 사용자 정의하고 호스팅 할 수 있는 반응형 Jekyll 테마로 문서를 빠르게 시작할 수 있습니다.
 {: .fs-6 .fw-300 }
 
 [시작하기](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub에서 보기](https://github.com/j2doll/just-the-docs.kr){: .btn .fs-5 .mb-4 .mb-md-0 }

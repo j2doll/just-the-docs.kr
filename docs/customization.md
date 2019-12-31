@@ -7,7 +7,7 @@ nav_order: 6
 # 커스터마이징
 {: .no_toc }
 
-## Table of contents
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC

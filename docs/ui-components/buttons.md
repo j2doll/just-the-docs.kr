@@ -8,7 +8,7 @@ nav_order: 2
 # 버튼
 {: .no_toc }
 
-## Table of contents
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-## Basic button styles
+## 기본 버튼 스타일
 
 ### Links that look like buttons
 

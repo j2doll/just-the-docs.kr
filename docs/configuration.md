@@ -7,11 +7,10 @@ nav_order: 2
 # 설정
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+문서에는 Jekyll 사이트의 _config.yml 파일에서 정의할 수 있는 특정 구성 매개 변수가 있습니다.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -22,7 +21,7 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Site logo
+## 싸이트 로고
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title

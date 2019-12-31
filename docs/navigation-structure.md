@@ -7,7 +7,7 @@ nav_order: 5
 # 탐색 구조
 {: .no_toc }
 
-## Table of contents
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -15,7 +15,7 @@ nav_order: 5
 
 ---
 
-## Main navigation
+## 메인 네비게이션
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
 
